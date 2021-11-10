@@ -1,7 +1,7 @@
 <?php
 	$host = 'localhost';
-	$username = 'herudi_root';
-	$password = 'backdoor1@#';
-	$database = 'herudi_psbsanti_new';
+	$username = 'root';
+	$password = 'kudo12';
+	$database = 'psb_santi_asromo';
 	$pdo = new PDO('mysql:host='.$host.';dbname='.$database, $username, $password);
 ?>

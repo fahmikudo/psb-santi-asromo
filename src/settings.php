@@ -17,9 +17,9 @@ return [
         // ],
         "db" => [
             "host" => "localhost",
-            "dbname" => "psbonline",
+            "dbname" => "psb_santi_asromo",
             "user" => "root",
-            "pass" => ""
+            "pass" => "kudo12"
         ],
         "jwt" => [
             'secret' => 'supersecretkeyherudiganteng'
